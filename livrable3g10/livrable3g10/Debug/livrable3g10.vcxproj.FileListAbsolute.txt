@@ -1,5 +1,0 @@
-C:\Users\LEGION\source\repos\livrable3g10\livrable3g10\Debug\livrable3g10.vcxproj.AssemblyReference.cache
-C:\Users\LEGION\source\repos\livrable3g10\livrable3g10\Debug\livrable3g10.gestion du personnel.resources
-C:\Users\LEGION\source\repos\livrable3g10\livrable3g10\Debug\livrable3g10.liv3g10poo.resources
-C:\Users\LEGION\source\repos\livrable3g10\livrable3g10\Debug\livrable3g10.vcxproj.GenerateResource.cache
-C:\Users\LEGION\source\repos\livrable3g10\livrable3g10\Debug\livrable3g10.cree un personnel.resources

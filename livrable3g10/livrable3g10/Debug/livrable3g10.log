@@ -1,4 +1,0 @@
-﻿  liv3g10poo.cpp
-C:\Users\LEGION\source\repos\livrable3g10\livrable3g10\liv3g10poo.cpp(6,33): warning C4829: Paramètres potentiellement incorrects dans la fonction main. Utilisez 'int main(Platform::Array<Platform::String^>^ argv)' à la place
-  cree un personnel.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
-  livrable3g10.vcxproj -> C:\Users\LEGION\source\repos\livrable3g10\Debug\livrable3g10.exe
